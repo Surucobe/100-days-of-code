@@ -2,11 +2,11 @@
 
 ### Day 0: Nomvember 18, 2018
 
-**Today's Progress**: Work on my Flexbox skills using Grid 
+**Today's Progress**: Work on my Flexbox skills using Grid and started the design of a new web page with the goal of have a better determinate project, this website will be my very own project to make it my presententation card for the people to judge my work.
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** Today i started my very first day of the challenge the first idea that came to my head was to continue one of my old project but relized that is pointless as i don't feel like it's something that will help me grow (it's already done after all) so i decided to start a new project, my current goal with this website is to get deep into html and css and to learn PHP as well, and of course JavaScript my first love in this world <3.
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Link to work:** i feel a bit ashamed but i don't know yet how to properly show my progress, but soon will leave my project here
 
 ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
