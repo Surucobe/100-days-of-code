@@ -8,14 +8,13 @@
 
 **Link to work:** i feel a bit ashamed but i don't know yet how to properly show my progress, but soon will leave my project here
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+### Day 1: December 1, 2018
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Finish my very first web page part of freecodecamp web responsive desgin certificacion
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts**: I really enjoy working on this, the hardest parts has been to adapt myself to this challenge due to my own laziness something i'm working on it took me a few days to actually start because as the challenge dictates i must first finish the curriculum, but feeling bad for not starting i decided to use this to actually do something, i struggle with the locations, margins and paddings on css something i'm looking foward to work with!
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Link(s) to work**: https://codepen.io/surucobe/full/VVqaRY/
 
 
 ### Day 1: June 27, Monday
