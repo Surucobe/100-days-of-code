@@ -14,7 +14,7 @@
 
 **Thoughts**: I really enjoy working on this, the hardest parts has been to adapt myself to this challenge due to my own laziness something i'm working on it took me a few days to actually start because as the challenge dictates i must first finish the curriculum, but feeling bad for not starting i decided to use this to actually do something, i struggle with the locations, margins and paddings on css something i'm looking foward to work with!
 
-**Link(s) to work**: https://codepen.io/surucobe/full/VVqaRY/
+**Link(s) to work**: https://codepen.io/surucobe/full/VVqaRY/ (Proud to now have one! :D)
 
 
 ### Day 1: June 27, Monday
