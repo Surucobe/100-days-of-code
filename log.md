@@ -17,12 +17,12 @@
 **Link(s) to work**: https://codepen.io/surucobe/full/VVqaRY/ (Proud to now have one! :D)
 
 
-### Day 1: June 27, Monday
+### Day 2: December 4, Tuesday
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Today's Progress**: Work on my FreeCodeCamp projects wirth a form, the basic html structure is ready, the basic CSS is ready as well which contains stylized fonts and inputs (love the lobster font :3) but the order is still lacking i need to work on it.
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts** Order and divs are still getting onto me as i try to put everything on a single div instead of making a div to every element i wanna work on it with more detail
 
-**Link(s) to work**
+**Link(s) to work**https://codepen.io/surucobe/full/BGMgEm/
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
 2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
