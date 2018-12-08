@@ -23,6 +23,12 @@
 
 **Thoughts** Order and divs are still getting onto me as i try to put everything on a single div instead of making a div to every element i wanna work on it with more detail
 
+## Day 3: December 6, Thursday
+
+**Today's Progress**: Did not have any kind of progress on the form as i only play with the paddings and margins(i ended up deleting everything on it but the main structure and the customize style of them)
+
+**Thoughts** Work on my padding and margin along with the float property it works pretty fine but i still to work in order to master it, my goal keep being the sme, workas a web developer to keep studying
+
 **Link(s) to work**https://codepen.io/surucobe/full/BGMgEm/
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
 2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
