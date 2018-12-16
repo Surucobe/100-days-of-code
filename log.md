@@ -29,6 +29,15 @@
 
 **Thoughts** Work on my padding and margin along with the float property it works pretty fine but i still to work in order to master it, my goal keep being the sme, workas a web developer to keep studying
 
-**Link(s) to work**https://codepen.io/surucobe/full/BGMgEm/
+**Link to work**https://codepen.io/surucobe/full/BGMgEm/
+
+## Day 4: December 16, Saturday
+
+**Today's progress**: Finally finish my form, well i did a few days ago, and move onto the next challenge my skills with the display  and the flexbox has increse although it still need more
+
+**Thoughts** I have proven myself to overcome a part of my own laziness and start working harder on my projects as i finish one and started another one these seem easier somehow, yet this new challenge ask me for more and i'm willing to take the fight i gotta make it!
+
+**Link to work** https://codepen.io/surucobe/pen/OrMmyB
+
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
 2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
