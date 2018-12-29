@@ -39,5 +39,27 @@
 
 **Link to work** https://codepen.io/surucobe/pen/OrMmyB
 
+## Day 5: December 20, Wednesday
+
+**Today's progress**: I finish my landing page completing another challenge (the following days i completely forgot to update my github)
+
+**Thoughts** I have to take more care of my github, which i found difficult cause i don't oftenly use
+
+**Link to work** https://codepen.io/surucobe/pen/OrMmyB
+
+## Day 6: December 24, Sunday
+
+**Today's progress**: Started my new project which i made progress fast and efficiency working with divs, margins, padding and the display has become easy in a way yet i need to learn more how to use them
+
+**Thoughts** My main concenr is the how often i work on coding, if i actually wanna work with this i need to work harder on it
+
+**Link to work** https://codepen.io/surucobe/pen/MZvRPR
+
+## Day 7: December 25, Monday
+
+**Today's progress**: I finish one more challenge with a technical documentation page, my biggest challenge here was a fixed bar, which i finish quickly, but had some minor details i had to work on 
+
+**Link to work** https://codepen.io/surucobe/pen/MZvRPR
+
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
 2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
