@@ -61,5 +61,17 @@
 
 **Link to work** https://codepen.io/surucobe/pen/MZvRPR
 
+## Resume of Day 8 and 9
+
+**¿What happened?**: i got my responsive design certificate from FCC and jump into JS section and start to struggle on how could i do what, as i was studying i found myself having problems with thing some elements and the way cicles work, not sure why as i have studied this before, i didn't like the fact that they didn't explain some minor things that quickly snowball into a problem, sad and demotivated i started looking for something else.... which i did not found for a while i found  anew place to study which i love, platzi, is a Latam website to learn, has lots of cool projects, careers and courses and i already have domain git and github (not completely tho) in a way not to mention that i deepen most of my knowledge
+
+**Link to work** if you are here it means you can access my github so just jump between my repos and you will find some of my work
+
+## Day 10: March 20, forgot what day it is
+
+**Today's Progress**: i started a new project in my git building a portfolio, is pretty simple for now nothing fancy just yet but i gonna keep making new content for it till is attractive enogh to make people waste their time inside of it hahaha
+
+**Link to Progress** just look into my repos really
+
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
 2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
