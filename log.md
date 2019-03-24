@@ -73,5 +73,9 @@
 
 **Link to Progress** just look into my repos really
 
+## Day 12: March 21, thursday
+
+**Today's Progress** i kept studying responsive design, images, videos and sizes i still need to learn more and put MORE practice to it, i got screwed by a padding-top, learn all the tricks in CSS won't be easy but i will be a full stack for sure!
+
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
 2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
